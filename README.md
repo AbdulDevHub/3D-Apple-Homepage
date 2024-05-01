@@ -2,7 +2,7 @@
 
 This repository contains the source code for a 3D Apple website. The website is built using Three.js, WebGi, and GSAP, which are powerful libraries for creating rich, interactive web experiences.
 
-![image](https://github.com/AbdulDevHub/UTM-Student-Portal/assets/75636044/ead60247-8aa8-4eac-a422-65843727d7e5)
+<img height="400" src="https://github.com/AbdulDevHub/3D-Apple-Website-Hompage/blob/main/Site%20Screenshot.png?raw=true">
 
 ## Components
 
