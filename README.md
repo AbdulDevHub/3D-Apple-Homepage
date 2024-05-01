@@ -2,7 +2,9 @@
 
 This repository contains the source code for a 3D Apple website. The website is built using Three.js, WebGi, and GSAP, which are powerful libraries for creating rich, interactive web experiences.
 
-<img height="400" src="https://github.com/AbdulDevHub/3D-Apple-Website-Hompage/blob/main/Site%20Screenshot.png?raw=true">
+<a href="https://3d-apple-website-with-threejs.netlify.app/" target="_blank" rel="noreferrer"> 
+  <img height="400" src="https://github.com/AbdulDevHub/3D-Apple-Website-Hompage/blob/main/Site%20Screenshot.png?raw=true">
+</a>
 
 ## Components
 
