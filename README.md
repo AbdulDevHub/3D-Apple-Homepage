@@ -1,4 +1,4 @@
-# 3D Apple Website With Three.js, WebGi, & GSAP
+# 3D Apple Homepage With Three.js, WebGi, & GSAP
 
 This repository contains the source code for a 3D Apple website. The website is built using Three.js, WebGi, and GSAP, which are powerful libraries for creating rich, interactive web experiences.
 
